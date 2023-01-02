@@ -1,0 +1,12 @@
+body {
+    background-color:cornsilk;
+}
+
+hr {
+    width: 200px;
+    border-top: 10px dotted grey;
+}
+
+h2 {
+    color:brown;
+}
